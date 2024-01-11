@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vequKYUi6/kFIZIgsMei7V6XVdB59T6n9v1VLtDm+7kITag4NJDwvhNXy9qJQUTHgFHkCq5ZrRmqakwg6K23qw==",
+  "success": true,
+  "projectFilePath": "E:\\Phase3 Assignment\\Ass5\\ConAppAss5\\ConAppAss5\\ConAppAss5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rojar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

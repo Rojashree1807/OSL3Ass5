@@ -1,0 +1,5 @@
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.exe
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.dll
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.deps.json
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.runtimeconfig.json
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.pdb

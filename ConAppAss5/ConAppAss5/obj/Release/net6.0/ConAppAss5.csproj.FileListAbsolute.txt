@@ -1,0 +1,14 @@
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.exe
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.deps.json
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.runtimeconfig.json
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.dll
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.pdb
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.AssemblyInfoInputs.cache
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.AssemblyInfo.cs
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.csproj.CoreCompileInputs.cache
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.dll
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\refint\ConAppAss5.dll
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.pdb
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.genruntimeconfig.cache
+E:\Phase3 Assignment\Ass5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ref\ConAppAss5.dll
